@@ -1,0 +1,28 @@
+.surprise-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .surprise-container button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: #ff4f81;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .surprise-container button:hover {
+    background-color: #ff1e56;
+  }
+  
+  .message {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+    margin-top: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  

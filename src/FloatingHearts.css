@@ -1,0 +1,15 @@
+.hearts-container {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: -1;
+  }
+  
+  .heart {
+    position: absolute;
+    font-size: 5rem;
+    left: calc(50% - 10px);
+    animation: float 25s infinite;
+  }
+  
